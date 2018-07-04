@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "precommit": "rspec --format progress && rubocop"
+    "precommit": "rspec --format progress && rubocop",
     "prepush": "rubocop && rspec --format doc"
   },
   "dependencies": {
