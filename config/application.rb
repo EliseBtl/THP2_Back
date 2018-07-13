@@ -38,3 +38,7 @@ module Thp2
     end
   end
 end
+
+Raven.configure do |config|
+  config.dsn = 'https://d0257b10c32944b5849a94fa01f20d81:932711e80d1145a19773d07d06f204c0@sentry.io/1242675'
+end
