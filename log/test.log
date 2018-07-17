@@ -170,3 +170,1138 @@
   [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
   [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
   [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (4.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (1.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.5ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.6ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (3.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.7ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (4.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (3.6ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.6ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.4ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (2.0ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (9.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (1.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.8ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.7ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (27.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "8"], ["description", "8z2ygri6uoh1ueju2gbx01kqhmn5yfs8hreiqljek9f12qns433ahv4kdr129"], ["created_at", "2018-07-17 07:22:39.334901"], ["updated_at", "2018-07-17 07:22:39.334901"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "d"], ["description", "knzrdqqwj9ephz5pg6p74gx5xg5a0mbxisyojus8oenggzcxlmz3beco665yh05i6vjqj7q49rpoy9g5w9olcwchhz9o6bk1gpibj9imd7d5cfmmri6tnmz64esef389kzsxsdxh1ehdvc3hfwvs10q07ihe5a1ce4ypbgwzphs6zfcvfsg33dzmc2bv93ehaotucsv2dzds0sha1n88owfrwvy24j0lqhx7f3tmvy5rc4w4ltrjq11ipv7nbqg3by7vodljosa7o77oda"], ["created_at", "2018-07-17 07:22:39.364616"], ["updated_at", "2018-07-17 07:22:39.364616"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "vqxt905ahl2o9cf2b6fg7art76gr"], ["description", "b9ft3jv6jrv3youdhsz3ygl7d2bae6camwyq69cpqarcujg7fi7gu2e2ead5llpl9hwq7mhj0zfq51u0q1zc406wgbloul8o32o7puza7bk2o0wh9eo8rfeww7bppzkn6rt"], ["created_at", "2018-07-17 07:22:39.365938"], ["updated_at", "2018-07-17 07:22:39.365938"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "71jbpbl9wxew8kboyf9ds69s8fb8"], ["description", "ti58eikdvgou96hsix5q68mrmfawmc7lj4yi1nzovqn7pe6k3blaettgytr9h4dfri9fsqpndnv8wobrw49qr7ex573vtaa6nw0bp8ri0rbst7anxdedx8677558cotkomf4x96dkncbirk47edizu11gv80j8kgw6k0jmtpqkb9m"], ["created_at", "2018-07-17 07:22:39.367466"], ["updated_at", "2018-07-17 07:22:39.367466"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "g2wrfo01uj5uzp7o5tnj1067sc"], ["description", "o1chijxvqd4z39mkb0n1lbrzje67qdatwbeez9fhnans2ojdtvnpxwx1bcf4i1dk2bm4dr9dxpc13u338lwu0wpf0wndyowx07heoe46a7yyoljtjjczzqcic6kxl3hbztipbxhxwgxho8kjtpvp42m0dpa5nh3169e4naap90zoiawtty561c9tpeztewact9mupb"], ["created_at", "2018-07-17 07:22:39.368944"], ["updated_at", "2018-07-17 07:22:39.368944"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "a6cqjzeq42qz072r"], ["description", "v4agspdqkwt3xemtopauiiicv8vmewk0jtre88h2mhss3v4dfh7y58027ns250bunoxyj8mood0lfa58py3h7w2yx9ce7wfgxaqnvyn4bjz7au4cpipdw5equ7avo0hur5skcjxh4guwsrj4wjl1y4spuxisvu50i7fxntrt5sb6mdvxpm8zruqmpgvsngq9hlb337tgv6yuqthfhzgfkrmv7tda3gkg84nr03af9w796ixu0d6o0a4r9j5mbozoftoxqyltst1unn0"], ["created_at", "2018-07-17 07:22:39.378066"], ["updated_at", "2018-07-17 07:22:39.378066"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "mgwr3784gyqogufmc8y41mfa9"], ["description", "9e1whnh69hn9xz1mzqjqtoip5dm70j16tkszoh4f9nq"], ["created_at", "2018-07-17 07:22:39.379611"], ["updated_at", "2018-07-17 07:22:39.379611"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "9g"], ["description", "6xstp5yfow2kcnhuac11w1prnn524ob9orci9thze00byn5lraqjeo4f90yxr2pyg7awbgqixl5uj50ih5nrfiyhfrrr6wm1lfxshzvn6id3z5n4xh1lkfylwz9d2nrr7881vqxglusdvegw58lvxe1s89jw7n3d0vy5hscu3uebt8exrhhqw7bhuibo4ycrjv11"], ["created_at", "2018-07-17 07:22:39.381139"], ["updated_at", "2018-07-17 07:22:39.381139"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "1yuf"], ["description", "a"], ["created_at", "2018-07-17 07:22:39.382577"], ["updated_at", "2018-07-17 07:22:39.382577"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (8.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "10zm11b2ceu3"], ["description", "8nj3nx7axonwedixagbxxipip4ptfksyxlhe3eus234euzu18bg4gfrmsqlngymyux0sha64m7ddc6fsoijrw5rse5s6utd3qbdtjayd20gktp4vd0ukncbo9fnov3favxzt3lhprbfk3o0xx2a2u54qoyydc22r81qgp6uv8kgatz9is3rwg2p73xr5eirt83fiu1bhr2ffvug3mkyoj8vons1ffuzro2bqiwc0ncirs"], ["created_at", "2018-07-17 07:22:39.383872"], ["updated_at", "2018-07-17 07:22:39.383872"]]
+  [1m[35m (0.5ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (3.7ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "ad1sh639z8"], ["description", "n9veqclpdbq6tbka55oxur06dcmogihq7vhzuh0wrkmb9dfichzo"], ["created_at", "2018-07-17 07:25:40.346115"], ["updated_at", "2018-07-17 07:25:40.346115"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "xa9bqm45m3n3tbbrvxn1fl8wplr7"], ["description", "waqm9t0w3dhi16oyl75au73dqen1icg21ztxa9aibo2f54w7uqm7ccmpn491xobmru04uwkdqh1izpplyie7eydl2g31y2l1hgr4rd5y2kcvk5xqajggownq3cf70emhq5pddqitj8ijkb8tvkcf6yikyq8txtzyyl8xwtnt184xt470sr11zt6wtjpg3meo1u08sb27flonm58l0c8knq90kr9ibl44y2t2po61c4fds9bnuggst2l08a"], ["created_at", "2018-07-17 07:25:40.351669"], ["updated_at", "2018-07-17 07:25:40.351669"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "u8jzpuapolphs9qvc"], ["description", "17o2wqgqcuqizehwnxkwvwnusg0xn3w14x9e"], ["created_at", "2018-07-17 07:25:40.353756"], ["updated_at", "2018-07-17 07:25:40.353756"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "863q"], ["description", "sozjb9x1lijtmfv9mg3r7vh3kduriyphf39tm5lkdszdws44tjj1xh7egk30ov298vm4cigo70wcoz04w6mhxv2um0ux741rokfio236673etc0oh3vdo1y8fputpsww5enj8d8gkmri0t8lj9t520prr9sx1ja7dv34fqob7dfzzh4nrje28a2ti93qf0e3vq1x1hp4qnh8d288mlu031lpb1hksgjng0i1btef8p6jjc81xf8x864jdgvr9bb"], ["created_at", "2018-07-17 07:25:40.355244"], ["updated_at", "2018-07-17 07:25:40.355244"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "6j618cfzvja3lk5ype8xz9cniphv"], ["description", "dv89f1jucpv1fn29n9cqmc4n0jqsh7a3sgs5m8ywsc2eysdamz4vh9ie88u4kic49j4h0wzfylf45foc7bmr6s4xkfziyk7fo25yqwvwzf6ws3vri0pzs3tb4yy0ux8jcq34q8wpoihxg5qsbkq0g3k8rn4lgq23hojlxy2r1afhj7oy7a1el2xpb"], ["created_at", "2018-07-17 07:25:40.356591"], ["updated_at", "2018-07-17 07:25:40.356591"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.6ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "efqw6jagtssgpfcmcuxnhui"], ["description", "ucnkbco0uypa6ltkrsq4431isi6rql057vcn90kub5pi8vw6ihqjfwz38progdl2kl6oqrp5tr3iuvsvpm2q3222saly1w5e7p7nkku6klu0zfzvlk4lzy1m8rv07pcv9b6qdi8yuy"], ["created_at", "2018-07-17 07:25:40.366341"], ["updated_at", "2018-07-17 07:25:40.366341"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "suj7ytx9oe"], ["description", "d5ie7tnb0v6fottszww5cgkr1oedsdxh95nzr6gwi3kkzbx42wr052r3299289owhxy34dwwmxif9e2id84tadmrz2i4w88sq5sfhx0w698t5p38cv12tl5glslgoqrbpg06sx7ogob6tezalm5ve3bn26oggk0r6xfbtx10n6anbx4"], ["created_at", "2018-07-17 07:25:40.368355"], ["updated_at", "2018-07-17 07:25:40.368355"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (10.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "daqi"], ["description", "nakrcpd6hyz91py54dtohj9ej52gda3fljz0aqav7eniqkjpqfgzuam8tjgdceo0ar1no5tvp8skcbb826s99jj"], ["created_at", "2018-07-17 07:25:40.369685"], ["updated_at", "2018-07-17 07:25:40.369685"]]
+  [1m[35m (0.3ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "1"], ["description", "0gwi5t6u0swjkoxjhk6kv992i229eh0a7xpoc6eczvrn0vg8y7hm4orwb6uv42mqa97cf38q60bjl2bv1jw7jav8q6ldj3t71l409s5j5uy1var9f0g88cum9zar66r3ux5h4sk5q01jurt3l"], ["created_at", "2018-07-17 07:25:40.381981"], ["updated_at", "2018-07-17 07:25:40.381981"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "z4l4dh851jrs9e"], ["description", "8jc0p1eegdvxwceh7n0m32esubr1w9kcrp2d5vz90pk44khtl8yaqrww38lbj2w85x3972d972v7itrgtyr29a57sb9aplk5ogtdcbcwxf9gtk1ds4kh5h96ee87kdh0s37dfhstcw9z5rqn2b29rlvixhw9rk1gmrbc41dxchpr5ss1xq9iwto14slkcp2lc6lclyk1pjam7yksimeiz4c"], ["created_at", "2018-07-17 07:25:40.383671"], ["updated_at", "2018-07-17 07:25:40.383671"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.7ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (7.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"occaecati"}
+  [1m[36mLesson Load (12.4ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 23ms (ActiveRecord: 17.0ms)
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (3.5ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "er"], ["description", "4z2kpdia3134cwfg3s7bsfcvc1cug2my79knv31eygcjlfibnv9uwxgi2w9su14kzpk2d8458b6641247rp7je1w8s613tmts6bwdjptxps2443y51iib3rqcmoth7lzb8xm1zrnv3fut0lj5pmbh4tyjhz"], ["created_at", "2018-07-17 08:05:10.006642"], ["updated_at", "2018-07-17 08:05:10.006642"]]
+  [1m[35m (0.3ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"86ade2c3-28ec-43e2-9c91-40209c4f3314"}
+  [1m[36mLesson Load (2.6ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "86ade2c3-28ec-43e2-9c91-40209c4f3314"], ["LIMIT", 1]]
+Completed 200 OK in 5ms (Views: 0.7ms | ActiveRecord: 2.6ms)
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "obr03j61v73de6"], ["description", "xyhx7f7i1acjiwytuijocsnilp2mnftsh7nt26cfftql2un4w24skw15j4mgfyd03td4821yh2i4h5d9xo9z2jis"], ["created_at", "2018-07-17 08:05:10.020914"], ["updated_at", "2018-07-17 08:05:10.020914"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"ea"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.2ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "626jkyb8omvd8b"], ["description", "kuixh2uu7gnmwfwc7nypxbegedqvd7wlnt2rw4fkchkmgvgv9a8c1mksl1r397idn606opcp4772sh37muh306sar99es7glra93208nweql02v09n4m8dudampblj0xzt6quznfbfnn2pbfqtl0pr3dd76zcg1a3mlihafsvx9qvu6nwl7q8le5hivt4gmvvv9v26xmbqpjz1ikfi3eyp8stkgv34bw1b92u5y0xm332u3f3vtukc55j0cq3buqh8fusrpr484zy7q2qqpplukl5f6q3m80f0"], ["created_at", "2018-07-17 08:05:10.032756"], ["updated_at", "2018-07-17 08:05:10.032756"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (4.0ms)[0m  [1m[34mSELECT COUNT(*) FROM "lessons"[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"91f0fc85-3390-4a76-96cf-5197699311cd"}
+  [1m[36mLesson Load (0.5ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "91f0fc85-3390-4a76-96cf-5197699311cd"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Destroy (7.3ms)[0m  [1m[31mDELETE FROM "lessons" WHERE "lessons"."id" = $1[0m  [["id", "91f0fc85-3390-4a76-96cf-5197699311cd"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Completed 204 No Content in 10ms (ActiveRecord: 8.2ms)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "lessons"[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "uyx8eojg43z4"], ["description", "c6f1eugke1d4phi1jwz4fpgts6r9yctz7ilp8fojg2snyvlznaza7pypzffoucq90t74636wsz4y2gbnnh56gm53rbx8biu1petivjg44vbqv94436j3py5ma9judyp7wzcdk4e1upz9af4rg48lpqrlpo0onx7ok0t4c437lkw5epdqrwn13l8ob8o9eyd4m4sb9"], ["created_at", "2018-07-17 08:05:10.063312"], ["updated_at", "2018-07-17 08:05:10.063312"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"a4712afa-ba22-43e4-959f-0c671abbc071"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "a4712afa-ba22-43e4-959f-0c671abbc071"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Destroy (0.2ms)[0m  [1m[31mDELETE FROM "lessons" WHERE "lessons"."id" = $1[0m  [["id", "a4712afa-ba22-43e4-959f-0c671abbc071"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Completed 204 No Content in 1ms (ActiveRecord: 0.6ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "zplgw9pdbx0s3xp972eg"], ["description", "ofbof0hb6wrgiinon1nrc5avrnjfqdgrnavhqcw77xlpjtb940t55ccrkcxc0"], ["created_at", "2018-07-17 08:05:10.070214"], ["updated_at", "2018-07-17 08:05:10.070214"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "5kakjhth7"], ["description", "pwwb737pc95jsr2czc5222hwgujz0knbzo5t2pimu1qw02vovwlnwplzuptsa00qafkhoinyozu0q3dce03nqbiy9vo8ya3qgobymdztvqugvkmlyk3r2a3zse72i7ifwbqsvwyx72ifpgbx80qfc1za41o5qxk23wi7lzaiwlrcq65x5bd1d7j7foe5lf5jay4d3iaetvgdsejo93r3ha05wx2yt"], ["created_at", "2018-07-17 08:05:10.072354"], ["updated_at", "2018-07-17 08:05:10.072354"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "eg1q8hvml26877n9beo"], ["description", "gfo6badmnvpkt8rw32i2i4jkn7wn0cbkwi9d6g9gbvvnibzxou3y9kqy1h3s890bsdi1yddcfeyrzpfvs5ns1s7q3ljxa1ko19w22z1gpj65jafrno0i30bi3ynqao814yyb"], ["created_at", "2018-07-17 08:05:10.074466"], ["updated_at", "2018-07-17 08:05:10.074466"]]
+  [1m[35m (0.6ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.6ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "nw9lr"], ["description", "x4oirbcj2hy36n6bs5l8ndavypoim6wlrcdwrcjpx2ln33j58q3ooepkutff3d2rd3r0f"], ["created_at", "2018-07-17 08:05:10.085850"], ["updated_at", "2018-07-17 08:05:10.085850"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.7ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "au14cey9xzpp7k6ug05dg"], ["description", "t97hrplhhm0ac5pxs6f0v7432zb4ty"], ["created_at", "2018-07-17 08:05:10.088360"], ["updated_at", "2018-07-17 08:05:10.088360"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "cn1eajgtk1yqkt4"], ["description", "yx88tajum9mszx"], ["created_at", "2018-07-17 08:05:10.094473"], ["updated_at", "2018-07-17 08:05:10.094473"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "e6uqmkly9xjpv"], ["description", "fzcrqtwr6tdc616p0uz5740a7qva57qpthfkuslmf5y3en2g7fduxchk4c4ektqqe1ybs7fbh36u3tpb8no19fpac1mnosbt46vbpjlrqparm1hevtzn2un160672wzfi2wsd69nfrh9em391o5ijjwzduykn3w7zk8mfxhqvcrlsfeuu1m5376rwbg85l6klehexnu"], ["created_at", "2018-07-17 08:05:10.095863"], ["updated_at", "2018-07-17 08:05:10.095863"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "5y9dd2909e0wnzo8ukuzm3n"], ["description", "qnpja3lihelycgkicn4hcbodkqlxv6oe1pwrzuj8klycvu1m3t6v7q8vsy2hxj935gah6sonabwj1qsym5x9g1154mjonm9p2lvocastld99yqzd676f68qy1v3ge76frmf4if6vl8gnfxp3m6n0a8rl1lwqhd69uklgkyfyszx6osrdxlvfylim"], ["created_at", "2018-07-17 08:05:10.097096"], ["updated_at", "2018-07-17 08:05:10.097096"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "07fym"], ["description", "scotxvceajmqd99slxlaximuqctj8eygg26ne0pglguy7sriszis6kh1c8shrqqbuuvu5xsgnhumy0lsnmou8gxdn227w9ua71zlf6na9fhwkhpa"], ["created_at", "2018-07-17 08:05:10.098586"], ["updated_at", "2018-07-17 08:05:10.098586"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "06ecaugshybvivyxwbh"], ["description", "rwi8ohq6cgs3yphe08lrjwh2l5yrgy"], ["created_at", "2018-07-17 08:05:10.099906"], ["updated_at", "2018-07-17 08:05:10.099906"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (9.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "p"], ["description", "i7wjjkxcxccskytqe828szs03onjou9dzug3cy77ryfbd1w5t1r924e43m18ke98fro1m2g7hy28q9l3ko1koljggnfdxwrf9ohot3t9l55kngzo9tr1ugmrtzytc6kjgbptlepmaq3nthgyqy3mcvxszqdotizzmb4wh9neerkx0ua"], ["created_at", "2018-07-17 08:06:57.148011"], ["updated_at", "2018-07-17 08:06:57.148011"]]
+  [1m[35m (0.4ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "oh6ca"], ["description", "kipks9r0srw2489aj74lozdl213vs3jxojxcbuwjhgfcdhjcli373csaqwtp38u09xghi268in9uda4mrhuwrd375ft6e9y2ty563ds4r5sj32hqncsqtj9crohb3rj83i7jzsjjcp85retkm8qoyqidvcp30nvpgeo4vsgp6m2v1ls1d6ut6f2i1vgysfyaocwn0i1sl40mzkh7eu740ryukk9vxeiecuowqrf6hhxxpp"], ["created_at", "2018-07-17 08:06:57.160411"], ["updated_at", "2018-07-17 08:06:57.160411"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "j2p0tw4qy071q7yzlm475"], ["description", "tev3r59jhmx0pf89jx1zqugsx3g8vz4fq7qbnwcsgmdd2qo0bpzl8gqfs79e8f43d3boqbzahi8ghzq2nntdomvmrzieoddlh942r6zl75b07rhgewby1ve9b1vhxfka5sueze7gufhi389gndqqxr1gbifmjjstqfp2vurpol76uxy2d6k6njstxvnx2t9ro8llf91t9aygu3dwe6hf4u5jg0mofm2uniisvfxyqib9qu5r6yeyr4x4itq6tjtjt6inw5fn4emah1jdtgz9giv5hnz2s1lv5pcew"], ["created_at", "2018-07-17 08:06:57.164122"], ["updated_at", "2018-07-17 08:06:57.164122"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "bw6smdidmf5nt67nhs9uika5g5m"], ["description", "2bgac8gov8ilab4hpw37g2u4my0mvyc2jithbhgavm81q0o4mrdny2262j64tf8iztpgsmg5mxbqahxm1cbv7ex0afd7avlcs57h2nlitf5sss47s6e0969j21x9vsxn4e2cvnvzb1xukf6zlm0mhwgq6yg2ylpsnki4rqzreo2ntm47mmu2td5z1gml8q0eww5cha8qd"], ["created_at", "2018-07-17 08:06:57.165729"], ["updated_at", "2018-07-17 08:06:57.165729"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "66bu1qfdh2ifoyh24fw1z8hck3o"], ["description", "f31eoep7wq6r65rkpcn7daud51z246eu4pshavyi2b1wa3xzqtoxz654tx40ugw5no6smzn7pxfkhdfocfudm8a05bjqsdvmoskzwrks56w8xczwnpdx31ny5wdbqgklh0oo6zu6i3sf2euj3yky0gmkff5jrhpsz11c49ii7nqlc2395u1xgvxj67slihx3f24jfcs0n4vwe6wa9aaa7pkudi3aj6vc2vpxdinpingdn04p6uyjv8jzckp2oauo046zy1mezbtxlr03arr0ddlvc17nfhxwj17y650g74st"], ["created_at", "2018-07-17 08:06:57.167270"], ["updated_at", "2018-07-17 08:06:57.167270"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "h389wfzk8urojz08o"], ["description", "gio8thgbfkqo1eulp9fua24589hx2b82n1gqnxislnhe9os49rb9zku5p89z883oxi3aa8nx7a3387x8dusvp6c2x038hzw8729sb2t5sucep2f4n1q1yeph0qfukottyk70u5uzb8hkcgudo1nycbp4jk0mzvkmbiplko9ik17xa9"], ["created_at", "2018-07-17 08:06:57.176598"], ["updated_at", "2018-07-17 08:06:57.176598"]]
+  [1m[35m (0.4ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.4ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.9ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "5"], ["description", "1xkoh7jkbrzrhn14h3kqupiu88njz1pi06n7y"], ["created_at", "2018-07-17 08:06:57.180657"], ["updated_at", "2018-07-17 08:06:57.180657"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "rxazr7xzr2isnc2hwa"], ["description", "l9hmnz51qgbkh4acqq512hgo1qfzitb"], ["created_at", "2018-07-17 08:06:57.183597"], ["updated_at", "2018-07-17 08:06:57.183597"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "2flskvk4o3e"], ["description", "y3cza379z03go7mk4i2imz2boezih1qvvx0yuuyqt3sjfxwrrydvpp2jftpehnjuql9r8ytjxmyc3v6yitxhcqmxvibfc3hx2n4v54wafll941fez1br13shmn09d1o5ishl432rao8yxxbzp9h8bcy1z56wkz7ic81a4k41yzuui7on92gnstnv2zvp2u08y0euxao5pnszt2xl78"], ["created_at", "2018-07-17 08:06:57.185211"], ["updated_at", "2018-07-17 08:06:57.185211"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "i2yyk20plakiugz91"], ["description", "c3grodq4sa7i6vdqk84wro0j43qfjk3fqjwg1g75f5dk1y3tvo6rpsokuiywt87zedblv2bkbx7w2yy"], ["created_at", "2018-07-17 08:06:57.187484"], ["updated_at", "2018-07-17 08:06:57.187484"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"sunt"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 3ms (ActiveRecord: 0.4ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "jwas9o7exlufmcw37t3xcu"], ["description", "3xknqnk96liicip3zf2utwu2iohp36twmu7yq3mdlp2z9aitbuykrjxri6db3vnta3qmnoq6j9cgdzjyc1xvyu5yrlmm8iqbnavkn52r06qvwfe5ghhq8zzdz5938v7lwnj7dht7nqzhm7ceyzydb971k1zp9bs8mzaalg9p1dmi5138teue3n7imd6mexj7l66x7wivwb1wff95b18wgtnm302kiioysuvp6g2yomp94reh1zedw8rae414wua0xg5dqq7bhc51m52beidb0vndag"], ["created_at", "2018-07-17 08:06:57.412915"], ["updated_at", "2018-07-17 08:06:57.412915"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"1c8e4908-bbec-4603-a4e4-0a38f38d12b1"}
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "1c8e4908-bbec-4603-a4e4-0a38f38d12b1"], ["LIMIT", 1]]
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "kdsaksvxu"], ["description", "t4rnhu2xgbt63u3id5tbourxiqq26qvh13lg7f17ile2i8bmigkq5atwu0pavi3cwbd4otfx735t2qd6y8jaimm7wvpfg5ska6juiclwj6etsvofiwchbv05z66uivjmx069d0stnxbia8zeleoujclsfl2xuaoo47zprh7iuyvt8xloykixxwvnwkwtqnnynicchb9j1uxk4mvfeum2xt"], ["created_at", "2018-07-17 08:06:57.418409"], ["updated_at", "2018-07-17 08:06:57.418409"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "lessons"[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"a751714f-67d0-47fe-8c62-72d53d010466"}
+  [1m[36mLesson Load (0.4ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "a751714f-67d0-47fe-8c62-72d53d010466"], ["LIMIT", 1]]
+  [1m[36mLesson Destroy (0.3ms)[0m  [1m[31mDELETE FROM "lessons" WHERE "lessons"."id" = $1[0m  [["id", "a751714f-67d0-47fe-8c62-72d53d010466"]]
+Completed 204 No Content in 2ms (ActiveRecord: 0.8ms)
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "lessons"[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "xx6o5ao7oi68ymb7whrx99z9zir3t"], ["description", "1a2gkhsngu9oggui5oewueoo9nk0vzij8p7uamr14al93qzkcyb0qkeqzhvl26wmmzr91c0uf3l3n0hy2t7popbpwpktvf05gmfbbrzz5basljtf8bm58tuwr3x7njawkwk10s0k9n6g0kwylrnuvt9mryoem8pudeyzsda58naplnoaw5jf615rz3ywvfroa5"], ["created_at", "2018-07-17 08:06:57.442276"], ["updated_at", "2018-07-17 08:06:57.442276"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"3a71e0ab-cb16-4dcf-b730-baf2a266dfdc"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "3a71e0ab-cb16-4dcf-b730-baf2a266dfdc"], ["LIMIT", 1]]
+  [1m[36mLesson Destroy (0.2ms)[0m  [1m[31mDELETE FROM "lessons" WHERE "lessons"."id" = $1[0m  [["id", "3a71e0ab-cb16-4dcf-b730-baf2a266dfdc"]]
+Completed 204 No Content in 1ms (ActiveRecord: 0.4ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "6phroyd"], ["description", "php24j87ca8elgkddks9l059j8myf8y6nntvoyhd67or5p66a4zpmwu2ahin8iwu7mveyby0ge0zez5io62ki6vverbwej6n0zfypa1ixo19aik1of94qmvynw5arx6mwkq1v9mlmrag36wzu5tndo92yf4ja82lvn7t2atgfwt4xfbrv9wn3o"], ["created_at", "2018-07-17 08:06:57.447270"], ["updated_at", "2018-07-17 08:06:57.447270"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"voluptate"}
+  [1m[36mLesson Load (3.6ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 4ms (ActiveRecord: 3.6ms)
+  [1m[35m (1.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.4ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (9.6ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "xps4k9xau6lhxfk0x2g6y4gz9k761"], ["description", "bpm3329hyzlo31tnjmi0hfj3sl0br12nas9ai76voz3nzh6xup9walo2gxj5p0jgilpod152fzsy1mq55ppz02vn18th2u7kl49j0i2zm902gcwq3e7j247sa6ty427zrryr8kqs3y5bj11ru8a94umba0fn72ozvim848p45pdi6hypbz0qbfp6cuxnbbdt3cozvpebi97ylhojys29n79q6f94yj1nza31rrb6c47yh3iouoadmueqztzhw25yvx8r2juyx7sye56xecxxj22h7vead2stgxaukijwnw2"], ["created_at", "2018-07-17 08:31:51.975373"], ["updated_at", "2018-07-17 08:31:51.975373"]]
+  [1m[35m (0.3ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "lessons"[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"0c5df0ba-3af6-4e71-8930-8a1cef6925a0"}
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "0c5df0ba-3af6-4e71-8930-8a1cef6925a0"], ["LIMIT", 1]]
+  [1m[36mLesson Destroy (0.5ms)[0m  [1m[31mDELETE FROM "lessons" WHERE "lessons"."id" = $1[0m  [["id", "0c5df0ba-3af6-4e71-8930-8a1cef6925a0"]]
+Completed 204 No Content in 5ms (ActiveRecord: 1.0ms)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "lessons"[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "pne4x97c3s7zt5x54n1kz1jq2"], ["description", "w3mjadgz40su4wg556zukx3wz2u1ofqe1czgwuogqr32z8e85sddhyf252aca"], ["created_at", "2018-07-17 08:31:52.012682"], ["updated_at", "2018-07-17 08:31:52.012682"]]
+  [1m[35m (0.3ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"3b046f3f-8a72-4076-8579-206de87ba4d9"}
+  [1m[36mLesson Load (0.4ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "3b046f3f-8a72-4076-8579-206de87ba4d9"], ["LIMIT", 1]]
+  [1m[36mLesson Destroy (0.7ms)[0m  [1m[31mDELETE FROM "lessons" WHERE "lessons"."id" = $1[0m  [["id", "3b046f3f-8a72-4076-8579-206de87ba4d9"]]
+Completed 204 No Content in 3ms (ActiveRecord: 1.1ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "h040yy0j33udzl6drhd"], ["description", "bxvzweuxqbae5mhs6z23v3i1fjw8y9rsbdth1d5tz5sy07trheyof5cggpo3d2ofn77fz9t1veafbhxyyrbfp6jpafy21rlbmogfvdtptbatvw6xj3n4w6dayopkyjhrckkya469nxyuottgb855w41ckar1410opxvjmf05wh7x9peblt5vd537nqox9pvgw2if5m7mm2f59hun4vq21aash"], ["created_at", "2018-07-17 08:31:52.023005"], ["updated_at", "2018-07-17 08:31:52.023005"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"quaerat"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.2ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "et120uv86o66jx4t"], ["description", "f2r7zvnwrae00ddrk08ne3xxt41nwnnqki8sz7f31f9p4m9l47k62ccbnwk0v1la"], ["created_at", "2018-07-17 08:31:52.029634"], ["updated_at", "2018-07-17 08:31:52.029634"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"555a59d8-bccc-44d3-988f-603ea396846d"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "555a59d8-bccc-44d3-988f-603ea396846d"], ["LIMIT", 1]]
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"doloribus"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.2ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "kufpjn"], ["description", "1s0xzx5vlbztd60c3qje1j6augq0n8pc4vbhwywqi0sn430t9px75pjqnd33wfbr6tb"], ["created_at", "2018-07-17 08:31:52.040187"], ["updated_at", "2018-07-17 08:31:52.040187"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "8ofl"], ["description", "khsv"], ["created_at", "2018-07-17 08:31:52.041568"], ["updated_at", "2018-07-17 08:31:52.041568"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "28b5pruti2"], ["description", "1dhdvmrjw0dv2wakag25n5d3ihzff64ica1sok1ty625vu2t98wiqeobsw05b9qmtzl9rl46z4hr7otjiozf8dbgcwazqccemkht8vo2ve7plwk5kpz6i5x7pc5fih4tok9vdf8iv8apx0fosg26bk3lkda"], ["created_at", "2018-07-17 08:31:52.043045"], ["updated_at", "2018-07-17 08:31:52.043045"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "wf3g0bn7t32ogocyaezo5hhae"], ["description", "2k4n55su7c3ohhtwncx2tj64qc9n06yshd8gw6i11wydn9kb6vx34gdd528ddkyczzfsv3fd91"], ["created_at", "2018-07-17 08:31:52.045512"], ["updated_at", "2018-07-17 08:31:52.045512"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.7ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "4qh4hl"], ["description", "1fb1437npkvnwsunaydwdpfm7a9nwd3kjoyc9ojjy1f1e4lw9gldlimgdqo0m9gleaf4avzcncuxiqrliqbnkze5mqso96ovkw08sb5k4op6cpln3szbto78tn4yr3rg2pfrpprjqn0kuqyw83rs248edc2gjiz3h0dx5m0aqxopklrle4hol5b03jv2wfoudd1zflz"], ["created_at", "2018-07-17 08:31:52.048334"], ["updated_at", "2018-07-17 08:31:52.048334"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "m8ua15xe77scepzzsgafnz0"], ["description", "kz5y7etnsl05oqulu8oljhy1qe0x0ywzw22hhtiv7raefibxw71xramex207k5q98x4r01k1qj93bah9a7ax4pakban4j2wv7vlbdgi0m5q53zz4rtxnbqz3o276r2a19r6v8vl2hxsptlk84w5wtiozadrrz395e29u40msi5le8zzmzsudfweu2o7wlztv9a8avwo9cwsz2x6f556yffvvjxz8uun9t6pojsz7vfloi46wngpbinxhnuvmv"], ["created_at", "2018-07-17 08:31:52.058997"], ["updated_at", "2018-07-17 08:31:52.058997"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "o11vcx1gdxtyzu4dkocgm4gtl05"], ["description", "hqe2l001spponq7n5go4zfy7ic1uyhkv4u6uderijx16wsw53ncii5ejjl05dyrh2i74"], ["created_at", "2018-07-17 08:31:52.060467"], ["updated_at", "2018-07-17 08:31:52.060467"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "le0rg7c5xhukocjf7b92z7hn"], ["description", "1856x8jo1wlcrs8bpj66r6fvbv5lnpeir9yl4i19m3mon009es3ig0e0xj2ot5kx3u4yrb8zo93x3385nufkbsgwlq4k0dm2ngqqkwvaa3x39jlv37n2vxrv207vvkybu49aeso72d7vmzus9uhgsc1vdy7bxojoe3gzfk66lyn8br6rvm1b1cnzl7q9i2yvc0r2pw1c4awxjt1grqd8nu9jzoi317lxyueptjjcezd6uj9bq0lvdaax8rknenpftd9e3k4q9qadl7gzvb8bi251howqccyx5dgwt7q6og"], ["created_at", "2018-07-17 08:31:52.061926"], ["updated_at", "2018-07-17 08:31:52.061926"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "m3n9e12eje8nh6qe15kkb"], ["description", "syrw7iy1hbsjlc7aq497sjkwyi6jyozr5548yiu1uonxpn7ohxq7ln38i5zn1ttg9w1sg93wepezvi877gszuxkq2054oiq4lb0libcaoh3phukk8jypgu1cr5ytw4ht84rh505p9ywrwpqhhzqll5vfyo3419qrzzphfru0b2o7pejvnuk4ip5lcnsnpy5wy184rj"], ["created_at", "2018-07-17 08:31:52.063406"], ["updated_at", "2018-07-17 08:31:52.063406"]]
+  [1m[35m (0.3ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "oe1wmy1lnhopjahxmme"], ["description", "vt3css08kqqgo7kwo1h1csryas7emstgibkle2bkodxdy3eymvbjacrgdsyxo5un8m9lkxdc5363xkjr474fhjpfmpko3rhd8xkipgjkkm0ytj3otqisqz2bjr97icp1xcikkkhq2cj8npscm3y6dvvj3l49xpbb6k3t"], ["created_at", "2018-07-17 08:31:52.067684"], ["updated_at", "2018-07-17 08:31:52.067684"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (4.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "docxnxbu6y40rmzg6hkiqd1g4k"], ["description", "e85w07cydt9q09xq1l0j0d533lypc7zvhvz"], ["created_at", "2018-07-17 08:33:41.875836"], ["updated_at", "2018-07-17 08:33:41.875836"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "w6tmq32e9ucfj45vi"], ["description", "qe438oz33p6pkyliadcumj4kizhjcnybffq1d7x7e86rnhwashb1z32b3d2cd2c38nmu7k9o1npnrbd3snpvag7i1z3eenh4mtempz6lbgjmtaiimcu986lo1vcwn8ivb4lk9l6hp09"], ["created_at", "2018-07-17 08:33:41.882231"], ["updated_at", "2018-07-17 08:33:41.882231"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "x"], ["description", "rhiuy49mzg4ku8gzpzwdumwpdwhn0n520iafp5lfmhws5y0wb3th8y0g63pewn5nth1vktb7cwhiirsvbhtzcphntnzjvbyia2pphu7c8ica4463rxwyqb468hldphb41ifedhr38ih7i9gfwtuwbkepg75qh"], ["created_at", "2018-07-17 08:33:41.883767"], ["updated_at", "2018-07-17 08:33:41.883767"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "1tfnj3gatvhlpwo2nb"], ["description", "hxuppb7pin64e10g1od46v6rxpfriqhbaw3fcs65644jnq81uuka3okgz8v1hu38rzrdbk9k2t1u5z7wrt59lls2wt0qhmri7zq3c5f5yd2y4qbf5vnpbuk02fv95oj9k47zcs19j7va3u8luj0ass9yw8wfztua26bi996r12gmdswcw8qgcqe69"], ["created_at", "2018-07-17 08:33:41.885777"], ["updated_at", "2018-07-17 08:33:41.885777"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (1.0ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "jh0u9bkbv"], ["description", "rveftflybdeo1rbhqjrmxwvc3nudzno3pyj46ej8xanc472lq5gm2t5311cpc1wf0xofbkclr3rwtidi8psvwo2dso2fc5j4bbtuda1jczkcya0jtnrt6ns04avt3rq1122mmchiu4nx7x58nj3m22gxaisiejjsachyb6jpp6emt9d82vgqwr32nogiiqud1rteagjpfwx3kr0baw3473up0h23wx2hbxi"], ["created_at", "2018-07-17 08:33:41.888282"], ["updated_at", "2018-07-17 08:33:41.888282"]]
+  [1m[35m (2.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.5ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.7ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "3vlqhdzq667l9zts59n9fxcqzyiy8"], ["description", "2vja7ys53k4f4590uzu39qahealschh8djtqkufu6ow6zzv1qmvf71awaltexmihyuyrlq0xd"], ["created_at", "2018-07-17 08:33:41.904194"], ["updated_at", "2018-07-17 08:33:41.904194"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "myb04uy5n70rf6l9x66vzqe"], ["description", "ag5d5nic73xxjvgqcglgy9zu5bcnny3tnok83fhvuuabfyhanl8zhec8ga4kywjyyqfdgj4yt5nt29u3bf07dydh8173ix16nuymv6jw5kwn708k1qk5xybrb5mvvmdojzl79xcy9whq7h72vxeg7gu8wv61vjhkn2sjue"], ["created_at", "2018-07-17 08:33:41.906269"], ["updated_at", "2018-07-17 08:33:41.906269"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "26e72o92klage"], ["description", "zzggeoopgqhasyzpmk5cqd2e50o3r067yx2i6ycvgjphe03q8ugygg0f3n9oihp69ewza9eji1jtrs4neefbfqoc5bwlpu9746qp6c29xiojxry6vnnbj"], ["created_at", "2018-07-17 08:33:41.907700"], ["updated_at", "2018-07-17 08:33:41.907700"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "ptz7opmfm2ja9wugzth8w"], ["description", "qzrasmamut29c1tbxk7wt5mnqdx0cq0xqg8kagfzubdd0cgq8lk82fvy1pcwggmhqj0kjd9d47djm7zphoqyfpn0d6quvvq6yb4yi2acgoqygmhtnqcebudhzfhl3zuauozv2urc1093n9eiv6bwtmpfz9gd6oiihb4eo3q54mo"], ["created_at", "2018-07-17 08:33:41.909252"], ["updated_at", "2018-07-17 08:33:41.909252"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "u2xbb7xeaudgtqu19e31ls"], ["description", "af8pt5ftvtuqddip2fivyodg7abyzp3pxt09mlrvl00d677di5k5k5j7jjzcxd3rq9vb7pyu7bxey3xhlac0hnpf1o74yas4mnbfy3xbjndyg9mn1tunc5kh2dmlt1v37j6i1ka2a7z5v59hxjm1xkj5z3guc552zlwkijpah1ari1bbuf9jw4im3r0r6u5difyg6xlci0if6quwpwgdoo4sygrzkjzgh7wuadfxwb0b15cexizmb0j"], ["created_at", "2018-07-17 08:33:41.910715"], ["updated_at", "2018-07-17 08:33:41.910715"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "2q0qprcvxfimadqvnfc"], ["description", "fh9czhesdzkt3zjh4ug6asnj5i1sh26erbmusp005k8xtzvqdqomh4vvsi0gxtx4ouku2q5zntx3bgbz9s62zv2fwqx4qd3mi30r2l8lzcdnmxyrcz7u5n55k9337nfjrmroernkmn2of8wnojkyrsw46vlhkc5v0hua3c0y62i9018gkwy5xz5zgvs6el2u4ezruexqxngs8q8zfz3kpp0d3gj63ofxzupy7z7ow0jjxkl3vorozaovnr2en2ka"], ["created_at", "2018-07-17 08:33:41.920904"], ["updated_at", "2018-07-17 08:33:41.920904"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"be337715-0542-46d6-ab55-fff85d3ed5eb"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "be337715-0542-46d6-ab55-fff85d3ed5eb"], ["LIMIT", 1]]
+Completed 200 OK in 3ms (Views: 0.4ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"repudiandae"}
+  [1m[36mLesson Load (0.4ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.4ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.5ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "9d2fgpl2urqakw007a"], ["description", "rwcnplblycvg545cv714cdckqzlu5i6834vrn1m85deijhozy4y8nwmwfer40klkjlcoobsn729o2tejeh2ew955pzkmy4lnm6ddop55aymp6lmhcw4siyu1prcilklt6mqgm1cqk6m0n6fpivt9bss1jp4s3xhoek9ln0ej69mviqgkydu27r770h0jzbf3op68sggqxruwmix8ajnjz376aq3h2pd4r44llmevf3wz0ixo3odtn515op9b2x4e6gb8o86"], ["created_at", "2018-07-17 08:33:41.935608"], ["updated_at", "2018-07-17 08:33:41.935608"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"accusamus"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.2ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "v3fcqggnnzwi5sn6j"], ["description", "u0gboj31hku"], ["created_at", "2018-07-17 08:33:41.949687"], ["updated_at", "2018-07-17 08:33:41.949687"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"a8467a4e-43d9-4920-8512-d3a06dbc26e5"}
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "a8467a4e-43d9-4920-8512-d3a06dbc26e5"], ["LIMIT", 1]]
+  [1m[36mLesson Destroy (0.2ms)[0m  [1m[31mDELETE FROM "lessons" WHERE "lessons"."id" = $1[0m  [["id", "a8467a4e-43d9-4920-8512-d3a06dbc26e5"]]
+Completed 204 No Content in 1ms (ActiveRecord: 0.3ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "1kk"], ["description", "jbhxyxt0o26ni99gj1s3tufse389cuk9a3pykc1xiqud99h7qn9z85df5qqp6x151fy1a1wgoexs15360rl6lwod3ear2cogvd"], ["created_at", "2018-07-17 08:33:41.954167"], ["updated_at", "2018-07-17 08:33:41.954167"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "lessons"[0m
+Processing by LessonsController#destroy as HTML
+  Parameters: {"id"=>"5c15c6b1-a66c-406d-9177-b8a8a703df51"}
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "5c15c6b1-a66c-406d-9177-b8a8a703df51"], ["LIMIT", 1]]
+  [1m[36mLesson Destroy (0.6ms)[0m  [1m[31mDELETE FROM "lessons" WHERE "lessons"."id" = $1[0m  [["id", "5c15c6b1-a66c-406d-9177-b8a8a703df51"]]
+Completed 204 No Content in 2ms (ActiveRecord: 0.9ms)
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "lessons"[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"inventore"}
+  [1m[36mLesson Load (0.4ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 4ms (ActiveRecord: 0.6ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (4.6ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "j"], ["description", "drldczudezu6nx0w34c6lh8ycibz8xt1p5ff9ba76n0ufujwy4kejnuff9iwt5ut7goj50sot3o3nyi2h0ezhqdmbth1r81w4glrr4do81sa7awourwfz6t3gw5voy9nxg1epvnz6yy961zwgslsdoqq0ouxyup3x4z4pvzlnu9m4rysmkkule8jbu9gms6nclbpht2nq5djy5q63yf1a4ugnwr7wq5uhckjk742p1uhvio97pbm77m25cnu639i8q12lguyzze5febs2x"], ["created_at", "2018-07-17 08:34:36.005907"], ["updated_at", "2018-07-17 08:34:36.005907"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"afc27cc2-4d2a-411b-87b7-205952a55d2e"}
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "afc27cc2-4d2a-411b-87b7-205952a55d2e"], ["LIMIT", 1]]
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "fuggr07a6bul"], ["description", "h3zfvjrg31dpswd5tqtqjl0dwdn2xp06tq65w1zrrfltoopw32pmihole3ml985cm4nwr9xwkj5rfn"], ["created_at", "2018-07-17 08:34:36.016886"], ["updated_at", "2018-07-17 08:34:36.016886"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "jjnebrvsmhm4dg8y1dpdbewvydvz"], ["description", "s4clxjq9l3trzv6nppcsm0u5oyq36te73po22au5yso5cpf2epq4p9rxetkoif6baxdr98old3vw7mirf5iq0861mmdns0yqo32h1o67qomzesoczkj6k2olmsvl"], ["created_at", "2018-07-17 08:34:36.018456"], ["updated_at", "2018-07-17 08:34:36.018456"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "ttjf"], ["description", "rpcstioag77d3vuhmel9f3mny0o2bavlo9i49hg9ter8ckk4vfpb3hxjv88hngbcq98ze5ha2qmqso7yak24f04vlkaaezkcv4l2apzbv469oyc6zxv8wf2"], ["created_at", "2018-07-17 08:34:36.020024"], ["updated_at", "2018-07-17 08:34:36.020024"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "25omcqiihh1ir1erpr4775"], ["description", "ulz8j23opuuimzonfusnvj9fjprs2wbwoyeklg3wah5bl64xrfpi4yn3j26vt9q6yjhiyw90pxlvti4y1lafbgpxwo5nzy4j2zxrpbamo3ekigx2yvgbjl4ee"], ["created_at", "2018-07-17 08:34:36.021745"], ["updated_at", "2018-07-17 08:34:36.021745"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "ts"], ["description", "tjun8c2ulkkxmo9w9q5"], ["created_at", "2018-07-17 08:34:36.023082"], ["updated_at", "2018-07-17 08:34:36.023082"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.4ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.5ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "5cj013pxd"], ["description", "eid11duu7l465uq0ovvrr4v9wwdwm74wzmena9wzlcjdtnqi1j4z43oqfvs4ebp980v4lrdfv4w5lkhqhczgdxj2yn3z3xodvvvupdiesz70gkeoqlevv2"], ["created_at", "2018-07-17 08:34:36.030057"], ["updated_at", "2018-07-17 08:34:36.030057"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.4ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.9ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "szx"], ["description", "9upixp0qgrogbv1b68jabbb6vpx601gntnvs9xw2irgjzy1ssm0r9a2ctupc1w5o90xea614d2c7wldqhxzf7tj3mcsms0p8q06ks9dz92fswzupj48w26sl2kihy3lnpfsi3brvwycqeg8hwkx2nowochgh0t7g0glebi40vff"], ["created_at", "2018-07-17 08:34:36.033518"], ["updated_at", "2018-07-17 08:34:36.033518"]]
+  [1m[35m (0.9ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.5ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "bdm"], ["description", "tkmqmh5zl6qjimhi563uatxphr71hrfgcwuiuiy23oime9y8nbj8a0q5482f90jklwa0f98b38q8snbeqz66h5lohdwhjucw"], ["created_at", "2018-07-17 08:34:36.039694"], ["updated_at", "2018-07-17 08:34:36.039694"]]
+  [1m[35m (0.3ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "2tpgfefzibjan3k3x2"], ["description", "c5cxcxuph2yd55dwrq6rz3mmfs1qxgzmv3kd2g8tavu4qgxsjilib8j5wfnr5nfkl5hhquejp1kqma4dwqbb0mudquogt36py6jqhpg5j6v5y3szmw5of213pcfd465dlq9kyl5ifwhxikh1euctem5lhqxkmntu8n9ussjw8sdiytj9zzbw3hpei1sqpecesn4xj64poxxwy6r9hnn8n5e1nht0f5okjt34dpa4fb2pylilhgf"], ["created_at", "2018-07-17 08:34:36.042138"], ["updated_at", "2018-07-17 08:34:36.042138"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "lpzfxko6wse"], ["description", "xeii2dnyt0estalm3mlnwxbvlufu5u9ytp34u80b127uz62pgxgzgsee5tg47hl"], ["created_at", "2018-07-17 08:34:36.043536"], ["updated_at", "2018-07-17 08:34:36.043536"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (2.7ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "8sfcqcoqvwjw8sz"], ["description", "hcztr5txdjl5ne750hs7vnmtzsq6ohnltezb7k7ev4srb1vmcs8f3mm6g1cvrjlcgx27fvd10jabct8kvb6cuux8h6208631rpx8roce64cp1mjft1c3n7xgu4lnn14udgcc67o4qxecerhkavbyuhyc323r453wftmgjekr5u7un3j3hx0c85w7htr1shzornmdr8y0doufr1bm3kdgma0qej74049kscyt05f9ypfkvfcnrjzmq8w370l15ekfajd1"], ["created_at", "2018-07-17 08:35:16.197097"], ["updated_at", "2018-07-17 08:35:16.197097"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "t54ii"], ["description", "g0e7rn0mvu3dr6xnkn2rmq7av370aba99s926uu4ezk9sqd65q7zkw0q2u1cev5t7nck6lldz78i8upr5meru6vwwvl5l37kyp69aom5dordbe2"], ["created_at", "2018-07-17 08:35:16.201681"], ["updated_at", "2018-07-17 08:35:16.201681"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "g"], ["description", "b49uu13oy6tps45nj0ruyct1g2uqwkmtcnsjxh3zc954rtir19uxurrjvqmk910k3kdd8gclzuqycxe94fkgxc9uop2a8n524ie15y59xsa02rfvvliw2wwwhpz620zeqmco11ohu2dxd3djrbslihzw0fufyp41d7e7mwjbamcnw5utrkc06bhqunnedrvk1nrns617wwfp9zjwpe3dozm384sqhz0j01naz"], ["created_at", "2018-07-17 08:35:16.203594"], ["updated_at", "2018-07-17 08:35:16.203594"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "3gj7coz4gh2lbo0"], ["description", "q7ijw5fu4agg1r8lg2xsa6kosmsj7dnk8ztsbcc9oi2m2jdm758xfbnhy6e0fa3j68ma8lgr0oder3tur2msjf5k53jsks32ucfis4cmpcill95ginscwetced65lsp2ou7ejmcj3bcotw7rcmzxozjpu3tlg3mmcxzb4og5mg8k6p6u1yu"], ["created_at", "2018-07-17 08:35:16.205337"], ["updated_at", "2018-07-17 08:35:16.205337"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "x44njizx2ol1uj87"], ["description", "cpbgc8klrjdh5q2l5gdn8gwiaq2ujvgrhn2c075yozuzf6tkts4nz06t2oeovrch7ozgnlub6pb0jxr173xiusviafv1ctlhs55mox6fnl5ufwoac2vlz8rv6veh9315cmsiqftbkh1tyhkthyn890ag8efvmktjio7z7msltsy2qkr4boksat54icu5m4tigelsxgktf8ftelrvsd96hi8scbutqmij6d7"], ["created_at", "2018-07-17 08:35:16.207110"], ["updated_at", "2018-07-17 08:35:16.207110"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "g"], ["description", "0phe5tq04k2ofjfhju1qk6dqfed4ut38spegc5u9g23fpn4rp0g97uqo35b5m6l1g0gooto62ua0ekv8a5ekdougawo2qetk2eh6un7xh17yvm3vc5xi0xm4628ojfege5lud61fwj6tlyeu449fzujb7pmgji00w9jn4na81f5kwn4v23o32exfrgv4l2dqp7jaz74lrvm30ftcya8zjwplxtmyljpv9czrlxv4p9r9eaahf4k41l89c8zb9"], ["created_at", "2018-07-17 08:35:16.215525"], ["updated_at", "2018-07-17 08:35:16.215525"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "xyarveovlodqcx"], ["description", "tljv0g2ftgo2m0abcwd8dsa9d1hf8q1kx5vox4x9ysk1jid68hhw8lm6qmxgh3ysqc8v8odzfrw3d2k5vdyes3yiqo6iyxbzs10inw11hnp12f50y64lrc0fwb6hmup0nk8yxrxk5"], ["created_at", "2018-07-17 08:35:16.219244"], ["updated_at", "2018-07-17 08:35:16.219244"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "pjfhs9theqmyaas"], ["description", "ajkgp23xpwm3wjo3jdzcxp3k48309cs4rr4hapdf9z4znl2pwb3nyhstearnh8olgui49iwuuhsl6vz0k60e0hy62rgbpvzqsdc8ifixgux2gnq9axp6e8b0zh6lodht"], ["created_at", "2018-07-17 08:35:16.220642"], ["updated_at", "2018-07-17 08:35:16.220642"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "gad9p3d"], ["description", "tkxexrymqqnnps9ukp82npxe7hl5hh6bj6yy0uzdo0mm02l0uomynyezry4ol1x6ppwmi4aqhq8q4cu9din41vmrn"], ["created_at", "2018-07-17 08:35:16.222074"], ["updated_at", "2018-07-17 08:35:16.222074"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "7p"], ["description", "f7demzris1rjmcwyv1kv3kkb3i8i17fku9x55st8nsfren28gouq460i7g40wwuj5tgc2"], ["created_at", "2018-07-17 08:35:16.223383"], ["updated_at", "2018-07-17 08:35:16.223383"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "gyzu2cjacjkli8z"], ["description", "u4e6lvk9ib1l3brba53nixrlseopli6blgo31ckrjnvust7k1yj0g6xrgjw2hyg8nwen59w1iddrip0qbujsph6lgjd7lrqcmwkcvulotfedrkszs8tewjxwmp3vpvwaes2ol0pv4eug4uoqlgve9b56l2rvfqgyjqcg8udd6f7ug0"], ["created_at", "2018-07-17 08:35:16.230253"], ["updated_at", "2018-07-17 08:35:16.230253"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"28d04ce9-ca35-449d-87cb-aa7a95313b53"}
+  [1m[36mLesson Load (0.4ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "28d04ce9-ca35-449d-87cb-aa7a95313b53"], ["LIMIT", 1]]
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.4ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"omnis"}
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.8ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.7ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.8ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (15.0ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "b5o9s7tmbyfo"], ["description", "iq0ov0zz3wre7l4uvr4uxy33cadkpob4mnnie4qha4ecv9ekr2mzhe4drmkv5el9q8bijqe"], ["created_at", "2018-07-17 08:35:36.217356"], ["updated_at", "2018-07-17 08:35:36.217356"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "z4txmeotzcuohwc24j42asch"], ["description", "uty8xjtmuvmkkoxkkc0r5zgxlobjht4z"], ["created_at", "2018-07-17 08:35:36.235066"], ["updated_at", "2018-07-17 08:35:36.235066"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "y22ig72g6xaug1"], ["description", "ec595sqqe835g7nvlp27yzxvq04vua75"], ["created_at", "2018-07-17 08:35:36.236822"], ["updated_at", "2018-07-17 08:35:36.236822"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "ic9yv84kpim9ko63jw1q61"], ["description", "23n9fjqgkbk9y1kefyp9hxjvrjxbd8m1i3zmucx7f3w1ac5im292f5ohf2xzx3cdiht33rzsoe91r9rb4ig310yjy"], ["created_at", "2018-07-17 08:35:36.238363"], ["updated_at", "2018-07-17 08:35:36.238363"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "f1jrxkgtwqgrm3f5ckf"], ["description", "6jbuq0sfuptdfshwxd3druvm6bet4yyrrw1ia12w2zrsqy6inftg39lzc9fif4hrc1bm6m0zkyfj6j3hwaq1taivx75rgwuppix2d29v1gc89k72xvy8vsmz60zjg"], ["created_at", "2018-07-17 08:35:36.239829"], ["updated_at", "2018-07-17 08:35:36.239829"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "y"], ["description", "qxx0i548bh5or34r2jkccatys3ktxl6qikl07rkawtz5es70cw7elxmocctwura4mc5siw2dy90eiv15572dn9hygv2tappbbgmhqbhfqj8u3zvk4s6mt67m9uwtux2fgrb7cx0ddqn0lnud5xdll8y2cb1ew2rf2u9chvquum3ty2n3tdwuxjcqhhu5v49mdxznqi9yfq0aelda4a98xrddm7crvv7swnrs1c3d44r7crye36beand6qmhvd69fbga7c1y8oim1rxs5mq6nescmnb5hdjw9v3bpng"], ["created_at", "2018-07-17 08:35:36.246344"], ["updated_at", "2018-07-17 08:35:36.246344"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.4ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "tw0poqs2zh35hr6rwxq"], ["description", "wajqbtl3bbo565d2nuowvhv9sail0pdnxnjmk6h9tltpardagxaragvkqp3zg9f4uh6vpob3sbn77bnm16sq2gpnp5hd0ua3a2u4384k2gags0ggbn54js4yon9ikn5dta8aaqfrc84p7on0mdex09gtqtjkhqxif5426g1rv"], ["created_at", "2018-07-17 08:35:36.248056"], ["updated_at", "2018-07-17 08:35:36.248056"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "ir0epqr08r7xfeh"], ["description", "ygxf7s4sl52higoe6ff1fcwxjqodsaeydopmssrvp8g0bgj7cnt4a0bg67minex11hst05wcawwmntdvrx837hdzu1tub4a1hwlbu8v3obf1scb34iu5fsrfj46zowj4dftkg1bp46fxvf59yx4wgr6mvcoayursne8p9kn7hbw6"], ["created_at", "2018-07-17 08:35:36.250117"], ["updated_at", "2018-07-17 08:35:36.250117"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "l6ixdzq81owpkwtzanm"], ["description", "z7m0zhq5zihgj73rcp7jhabar9fkixr4gs8ll6vg5ydej7lex9q4ro05eb02oe1nm3muhw8j4u8r8b4iamokxi98ag8em8xm4w8jn7xcbzagbv8v9knnpxzt3e4afjnfif1gu6dzri0kbysz2m629br1y80ykn3aeskmc"], ["created_at", "2018-07-17 08:35:36.251677"], ["updated_at", "2018-07-17 08:35:36.251677"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "bbqlfwue5vdeafitwnagtza2"], ["description", "1n9wnccw2w1iukw3fnbrnh7goh0lkcssrxaweyq0j73izwl4vppp8ps9499jarf70el1qoz1azo32vl55suc7dqwjkmh9py66fdp3n3g23e2hsuzut4a0aicq0pocu1fitm9ri50gf6otp0b3zd44m6aumc8yuwzpugne"], ["created_at", "2018-07-17 08:35:36.253500"], ["updated_at", "2018-07-17 08:35:36.253500"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "vsg"], ["description", "wfowxiq7giobqsn4tlsncg8g9b7v9wnhv3ouvr6n8srf12v3z2gkcszhv1ubsk7k4va5qpzx1d1y8m02k5t15djl3wqqvwt1mvwn0ohnvzrz70nukdbodeb1w67m64sh42pdq8vdqx4bj00pdav185dcd8w5drj2cygq5o07z35uivv9ongluaj6exmg0yx106mltxoxm6zm7wsz7kh80v38u1zkkl6otaxvppvqqudlckqj1t"], ["created_at", "2018-07-17 08:35:36.260166"], ["updated_at", "2018-07-17 08:35:36.260166"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"f4c70d5f-a8bb-4440-a6df-88609c57331a"}
+  [1m[36mLesson Load (0.7ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", "f4c70d5f-a8bb-4440-a6df-88609c57331a"], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 0.3ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+Processing by LessonsController#show as HTML
+  Parameters: {"id"=>"incidunt"}
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT  "lessons".* FROM "lessons" WHERE "lessons"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (3.1ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "iq5xhg6n0jtoj58otfopcr5s"], ["description", "5u86q5gs0jn1"], ["created_at", "2018-07-17 08:37:12.585741"], ["updated_at", "2018-07-17 08:37:12.585741"]]
+  [1m[35m (0.2ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "xhzt64u353j03htyhnbnx4dapr"], ["description", "s18qbi4wcx6lxo1z7s8ez09rimoslq4fn95hcwwg72dsige71ozxd52dxj2ogn67xea9h5ul0taxn73kfycktozf7hyueq2u3r48ejbef60wl9j6stzrwqupccwourkawk861zbzbmsndh62gg8f3yitvzue5rdg3ppg19ftv"], ["created_at", "2018-07-17 08:37:12.591020"], ["updated_at", "2018-07-17 08:37:12.591020"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "x5815o49qkla"], ["description", "jjhuj1fi6qlus7z9xl7zcn9f1j51mrre1gureftpnqqax8b1tcuylth7pwv1o90rgm3292gxmomz7awf06utmjnn945btn1uui1lmwbs42cr2xv71037d0egbz2je750dk9fatla97mzsjumv6z1"], ["created_at", "2018-07-17 08:37:12.592538"], ["updated_at", "2018-07-17 08:37:12.592538"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "bs2s"], ["description", "0lhven97w0hlxgouz04coh4ys15xk6fhuby9hlvo3fmozkc9wd3deuijj6klb5yl312j5ms2r3fjtl3brd83ub558iz2ppp2ma8lrtckpxt7fgjkremnyq8s0qj2kq4pqomv4dw1h8djx3v688"], ["created_at", "2018-07-17 08:37:12.594383"], ["updated_at", "2018-07-17 08:37:12.594383"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "2lo7"], ["description", "2kf9il1bnvc6jk8cdcm4kdmikkbrtbgw9ffcudpmdkurcdz2c9h3gq6tx7rel31g17i2cbwv"], ["created_at", "2018-07-17 08:37:12.595696"], ["updated_at", "2018-07-17 08:37:12.595696"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.3ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "5e487ierrlodhyw4a5706646mna8ld"], ["description", "5zpmic6pkv8p4kqhu42kg01wihj63sjou9bgtfri5haszb0caashgc6i09zsdjs532xzet68mi6367xfay41470"], ["created_at", "2018-07-17 08:37:12.605517"], ["updated_at", "2018-07-17 08:37:12.605517"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "utaoounh87l"], ["description", "0jv3sukpq97z"], ["created_at", "2018-07-17 08:37:12.607092"], ["updated_at", "2018-07-17 08:37:12.607092"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.3ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "s01639eq6kxeiuy5oxrpwthxd3"], ["description", "wk3ml1nsv14kwtcltm91f1mrjolgfsjhn9m2sby5se4ocz04up91ziwnjhez3k6c6kcp2hj78mupjg4nvclqfgwmx8wl6ju23c42sycy6q3mzeipfkakff0ua1lujm75mzbasmde3raovx20bfzzsqpgklpguzfiiu3ah9z1gd6p6i757htuqwgk5990"], ["created_at", "2018-07-17 08:37:12.608640"], ["updated_at", "2018-07-17 08:37:12.608640"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "wp5hd9b7dixiav9q4rotxzgksn3"], ["description", "geihprp044q3cydxefl2qqbvhvuievyza47w97980t5evv0qg9b8petcklizx6eoxrl6izxp94gf73i0zdm7jghkjohusfe1ke2bul42nuvq7vo7s1xsafbeub06yuhuusqu"], ["created_at", "2018-07-17 08:37:12.610192"], ["updated_at", "2018-07-17 08:37:12.610192"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mLesson Create (0.2ms)[0m  [1m[32mINSERT INTO "lessons" ("title", "description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "p9pcu7z41llh7yofe1w"], ["description", "ix1732ddyurwz5xjs9ym1dabamxvbdsogosgc7ten8grby2nwnhs297cxh1yx5n1xhymxxeb3bz0tullg2d2wvgbkhsqsbjvi8beo77zxntgqt0jav4y13bv6svyodgvak907avxed11lz"], ["created_at", "2018-07-17 08:37:12.611453"], ["updated_at", "2018-07-17 08:37:12.611453"]]
+  [1m[35m (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Processing by LessonsController#index as HTML
+  [1m[36mLesson Load (0.2ms)[0m  [1m[34mSELECT "lessons".* FROM "lessons"[0m
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.1ms)[0m  [1m[31mROLLBACK[0m
